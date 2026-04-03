@@ -1,0 +1,19 @@
+{
+  "name": "swasthya-bandhu",
+  "version": "1.0.0",
+  "description": "healthcare_assistant_baymax",
+  "license": "ISC",
+  "author": "Baymax",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.13.6",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.30.3"
+  },
+  "devDependencies": {}
+}
